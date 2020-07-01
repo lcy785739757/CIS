@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0b8e15d-72ac-4a84-9004-5a8ce0607c82" name="Default Changelist" comment="项目基本实现">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/login_background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/gloabal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/gloabal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/management/Direct_Approval.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/management/Direct_Approval.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/management/Project_Mana.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/management/Project_Mana.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/project/Project_My_Release.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/project/Project_My_Release.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c4NjbYPh4qnE4VvBaSksXVQrZy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\WebStorm\front3\DaChuangManagementSyetemVue\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program\WebStorm\front3\DaChuangManagementSyetemVue\src\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b8e15d-72ac-4a84-9004-5a8ce0607c82" name="Default Changelist" comment="" />
+      <created>1589784041907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589784041907</updated>
+      <workItem from="1589784043089" duration="122000" />
+      <workItem from="1589791572458" duration="300000" />
+      <workItem from="1589792422467" duration="59000" />
+      <workItem from="1589792640415" duration="7000" />
+      <workItem from="1589792663018" duration="289000" />
+      <workItem from="1589792960309" duration="11075000" />
+      <workItem from="1589809385768" duration="1933000" />
+      <workItem from="1589811793714" duration="1155000" />
+      <workItem from="1589847523971" duration="16429000" />
+      <workItem from="1589879273858" duration="57000" />
+      <workItem from="1589879749120" duration="6231000" />
+      <workItem from="1589944073633" duration="5095000" />
+      <workItem from="1589954818760" duration="6932000" />
+      <workItem from="1589971377958" duration="14701000" />
+      <workItem from="1590020368976" duration="8417000" />
+      <workItem from="1590040557090" duration="15649000" />
+      <workItem from="1590058526436" duration="8477000" />
+      <workItem from="1590107213029" duration="2499000" />
+      <workItem from="1590223659859" duration="242000" />
+      <workItem from="1590229325180" duration="2469000" />
+      <workItem from="1590236046494" duration="2871000" />
+      <workItem from="1590405460104" duration="1519000" />
+      <workItem from="1590407897226" duration="5204000" />
+      <workItem from="1590454360539" duration="3960000" />
+      <workItem from="1590483166217" duration="9334000" />
+      <workItem from="1590541049624" duration="3752000" />
+      <workItem from="1590559353949" duration="11285000" />
+      <workItem from="1590626244404" duration="700000" />
+      <workItem from="1590666285971" duration="82000" />
+      <workItem from="1590913239098" duration="621000" />
+      <workItem from="1590921413925" duration="22000" />
+      <workItem from="1590992858067" duration="2000" />
+      <workItem from="1591013031122" duration="93000" />
+      <workItem from="1591060767808" duration="886000" />
+      <workItem from="1591070426352" duration="616000" />
+      <workItem from="1591144469140" duration="4000" />
+      <workItem from="1591164712880" duration="3000" />
+      <workItem from="1591170582391" duration="600000" />
+      <workItem from="1591231507680" duration="18000" />
+      <workItem from="1592096939787" duration="12196000" />
+      <workItem from="1592116330129" duration="18342000" />
+      <workItem from="1592182947951" duration="497000" />
+      <workItem from="1592183606844" duration="763000" />
+      <workItem from="1592202258834" duration="3348000" />
+      <workItem from="1592224102191" duration="3568000" />
+      <workItem from="1592271329516" duration="1482000" />
+      <workItem from="1592487837702" duration="3000" />
+      <workItem from="1593057724467" duration="11000" />
+      <workItem from="1593416280734" duration="4000" />
+      <workItem from="1593432288207" duration="2841000" />
+      <workItem from="1593500990794" duration="12994000" />
+      <workItem from="1593566324513" duration="3916000" />
+      <workItem from="1593578103843" duration="1586000" />
+      <workItem from="1593582717058" duration="168000" />
+      <workItem from="1593582895128" duration="59000" />
+      <workItem from="1593582971489" duration="365000" />
+      <workItem from="1593583426229" duration="224000" />
+    </task>
+    <task id="LOCAL-00001" summary="李程遥3">
+      <created>1589792850996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589792850996</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新了与后端的接口连接">
+      <created>1589944150123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589944150123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="目前可以正常发布blink">
+      <created>1589956854131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589956854131</updated>
+    </task>
+    <task id="LOCAL-00004" summary="实现了blink功能">
+      <created>1590054422912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590054422912</updated>
+    </task>
+    <task id="LOCAL-00005" summary="实现了blink加入功能">
+      <created>1590063074247</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590063074247</updated>
+    </task>
+    <task id="LOCAL-00006" summary="实现了blink基本功能">
+      <created>1590072251184</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590072251184</updated>
+    </task>
+    <task id="LOCAL-00007" summary="基本上实现了blink的功能">
+      <created>1590109695370</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590109695370</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改了bug：审批界面及发布blink后跳转">
+      <created>1590242029263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590242029263</updated>
+    </task>
+    <task id="LOCAL-00009" summary="日常更新，增加了一个blink_Apply界面">
+      <created>1590411930262</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590411930262</updated>
+    </task>
+    <task id="LOCAL-00010" summary="日常更新，添加了project的路由，发布项目实现">
+      <created>1590500886391</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590500886391</updated>
+    </task>
+    <task id="LOCAL-00011" summary="日常更新，添加了教师端查看我发布的项目">
+      <created>1590552291011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590552291011</updated>
+    </task>
+    <task id="LOCAL-00012" summary="日常更新，添加了与项目有关的内容">
+      <created>1590587223602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590587223602</updated>
+    </task>
+    <task id="LOCAL-00013" summary="日常更新，修改跳转主页bug">
+      <created>1591013104593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591013104594</updated>
+    </task>
+    <task id="LOCAL-00014" summary="更新街口与界面">
+      <created>1592106640525</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592106640525</updated>
+    </task>
+    <task id="LOCAL-00015" summary="更新借口与界面，基本实现">
+      <created>1592130109691</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592130109691</updated>
+    </task>
+    <task id="LOCAL-00016" summary="更新接口与界面，基本实现">
+      <created>1592139482221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592139482221</updated>
+    </task>
+    <task id="LOCAL-00017" summary="项目基本实现">
+      <created>1592211723057</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211723058</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="李程遥3" />
+    <MESSAGE value="更新了与后端的接口连接" />
+    <MESSAGE value="目前可以正常发布blink" />
+    <MESSAGE value="实现了三个功能" />
+    <MESSAGE value="实现了blink功能" />
+    <MESSAGE value="实现了blink加入功能" />
+    <MESSAGE value="实现了blink基本功能" />
+    <MESSAGE value="基本上实现了blink的功能" />
+    <MESSAGE value="修改了bug：审批界面及发布blink后跳转" />
+    <MESSAGE value="日常更新，增加了一个blink_Apply界面" />
+    <MESSAGE value="日常更新，添加了project的路由，发布项目实现" />
+    <MESSAGE value="日常更新，添加了教师端查看我发布的项目" />
+    <MESSAGE value="日常更新，添加了与项目有关的内容" />
+    <MESSAGE value="日常更新，修改跳转主页bug" />
+    <MESSAGE value="更新街口与界面" />
+    <MESSAGE value="更新借口与界面，基本实现" />
+    <MESSAGE value="更新接口与界面，基本实现" />
+    <MESSAGE value="项目基本实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目基本实现" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592106515051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1592106515051" />
+    <state x="598" y="172" key="FileChooserDialogImpl" timestamp="1593583593750">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="598" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1248.0.1248.906@0.0.1536.834" timestamp="1593501341926" />
+    <state x="598" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593583593750" />
+    <state x="270" y="61" key="SettingsEditor" timestamp="1593583651730">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593583651730" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1592211725405">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592211725405" />
+    <state x="408" y="204" key="git4idea.merge.GitPullDialog" timestamp="1589801303151">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1589801303151" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1592101615228">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1592101615228" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1590041053711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1590041053711" />
+  </component>
+</project>
